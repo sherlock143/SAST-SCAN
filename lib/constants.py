@@ -1,0 +1,11 @@
+RANKING = ["UNDEFINED", "LOW", "MEDIUM", "HIGH", "CRITICAL"]
+CONFIDENCE_DEFAULT = "MEDIUM"
+SEVERITY_DEFAULT = "LOW"
+
+PRIORITY_MAP = {
+    "1": "CRITICAL",
+    "2": "HIGH",
+    "3": "MEDIUM",
+    "4": "LOW",
+    "5": "UNDEFINED",
+}
